@@ -29,4 +29,4 @@ Welcome to the QR Code Generator! This simple web application allows you to gene
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/qr-code-generator.git
+   git clone https://github.com/sumu9897/QR-Code-Generator.git
